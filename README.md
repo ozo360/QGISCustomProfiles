@@ -28,11 +28,11 @@ REM @echo on
 
 ### 設定ファイルの説明
 `profiles\<profile_name>\QGIS\QGIS3.ini`  
-QGISの全般的な設定が書き込まれています。
+QGISの全般的な設定が書き込まれています。  
 このQGISCustomProfilesではアプリケーションや起動プラグインの設定を行っています。
 
 `profiles\<profile_name>\QGIS\QGISCUSTOMIZATION3.ini`  
-主にQGISのインターフェースのカスタマイズで設定した内容が書き込まれています。
+主にQGISのインターフェースのカスタマイズで設定した内容が書き込まれています。  
 このQGISCustomProfilesではメニューバーやツールバー、ステータスバーなどの表示設定を行っています。
 
 ---
